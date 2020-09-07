@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CursoRest/src/main/resources/mapa_da_rede_metro_2017.pdf&apos; to &apos;mapa_metro.pdf&apos;" description="Rename resource &apos;mapa_da_rede_metro_2017.pdf&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/mapa_da_rede_metro_2017.pdf" name="mapa_metro.pdf" stamp="1596055952501" updateReferences="true"/>
+</session>

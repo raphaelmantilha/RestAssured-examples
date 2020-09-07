@@ -1,0 +1,21 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [],
+    "properties": {
+      "id": {
+        "type": "number"
+      },
+      "name": {
+        "type": "string"
+      },
+      "age": {
+        "type": "number"
+      },
+      "salary": {
+        "type": "number"
+      }
+    }
+  }
+}
